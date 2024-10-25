@@ -19,10 +19,11 @@ Ce script Python télécharge les fichiers audio d'une playlist YouTube publique
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/votre-utilisateur/youtube-playlist-downloader.git
-   cd youtube-playlist-downloader```
+   cd youtube-playlist-downloader
 
 ## Utilisation
 
+```bash
 - Pour utiliser le script l'utilisateur doit changer la variable :
 playlist_url = 'Ajoutez l'url de votre playlist Youtube vérifier qu'elle soit publique pour que tout fonctionne correctment'
 download_folder ='Ajoutez votre chemin pour le repertoire de téléchargement'
