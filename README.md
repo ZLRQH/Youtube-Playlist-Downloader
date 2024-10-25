@@ -24,6 +24,6 @@ Ce script Python télécharge les fichiers audio d'une playlist YouTube publique
 ## Utilisation
 
 1. Pour utiliser le script l'utilisateur doit changer les variables :
-```python
-playlist_url = ''
-download_folder = ''
+   ```python
+   playlist_url = ''
+   download_folder = ''
