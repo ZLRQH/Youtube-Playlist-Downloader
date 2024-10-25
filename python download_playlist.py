@@ -2,10 +2,10 @@ import os
 import yt_dlp
 
 # URL de la playlist YouTube
-playlist_url = 'https://www.youtube.com/playlist?list=PL7E436F1EC114B001'
+playlist_url = ''
 
 # Répertoire de téléchargement
-download_folder = r'C:\Users\Kemzoh\Desktop\Videos\videos'
+download_folder = r''
 
 # Créer un dossier pour stocker les vidéos téléchargées
 try:
