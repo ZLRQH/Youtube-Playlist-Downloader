@@ -23,7 +23,7 @@ Ce script Python télécharge les fichiers audio d'une playlist YouTube publique
 
 ## Utilisation
 
-1. Pour utiliser le script l'utilisateur doit changer la variable :
+1. Pour utiliser le script l'utilisateur doit changer les variables :
 ```python
 playlist_url = 'Ajoutez l'url de votre playlist Youtube vérifier qu'elle soit publique pour que tout fonctionne correctment'
 download_folder ='Ajoutez votre chemin pour le repertoire de téléchargement'
